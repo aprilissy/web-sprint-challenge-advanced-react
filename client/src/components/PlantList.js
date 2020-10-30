@@ -1,4 +1,4 @@
-import React, { Component, setState} from "react";
+import React, { Component } from "react";
 import axios from "axios";
 
 export default class PlantList extends Component {
